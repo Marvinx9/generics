@@ -1,10 +1,9 @@
 package org.marvin.application;
 
 import org.marvin.entities.Product;
-import org.marvin.services.MyComparator;
+import org.marvin.utils.MyComparator;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 // Interface funcional

@@ -1,4 +1,4 @@
-package org.marvin.services;
+package org.marvin.utils;
 
 import org.marvin.entities.Product;
 
