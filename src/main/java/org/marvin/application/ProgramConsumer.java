@@ -20,6 +20,9 @@ public class ProgramConsumer {
             products.add(p2);
             products.add(p3);
 
+//          using implementation consumer
+//          products.forEach(new PriceUpdate());
+
 //          invocation method by reference
             products.forEach(Product::staticPriceUpdate);
 
